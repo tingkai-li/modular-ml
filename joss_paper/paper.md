@@ -13,7 +13,8 @@ authors:
   - name: Tingkai Li
     orcid: 0000-0003-1934-1000
     affiliation: "1"
-  - name: Sina Navidi           # TODO: add orcID
+  - name: Sina Navidi
+    orcid: 0000-0002-8516-9117
     affiliation: "1"
   - name: Mohammad Mundiwala    # TODO: add orcID
     affiliation: "1"
